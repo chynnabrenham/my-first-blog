@@ -3,6 +3,7 @@
 __pycache__
 blog/__pycache__
 mysite/__pycache__
+mysite/__pycache__/settings.cpython-36.pyc
 myvenv
 db.sqlite3
 /static
